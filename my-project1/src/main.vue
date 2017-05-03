@@ -39,5 +39,4 @@ export default {
 
 <style>
     @import './assets/css/sm.css';
-
 </style>
